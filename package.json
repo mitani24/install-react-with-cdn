@@ -1,0 +1,13 @@
+{
+  "name": "install-react-with-cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "mitani24 <h.mitani@ashita-team.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
